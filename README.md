@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![Version](https://img.shields.io/npm/v/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-percent-circle)
-[![npm](https://img.shields.io/npm/dt/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-percent-circle)
+[![Version](https://img.shields.io/npm/v/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-select-picker)
+[![npm](https://img.shields.io/npm/dt/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-select-picker)
 
 # react-native-select-picker
 
@@ -12,7 +12,7 @@
 ### Install
 
 ```
-npm install react-native-select-picer --save
+npm install react-native-select-picker --save
 ```
 
 
