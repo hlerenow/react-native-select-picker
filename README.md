@@ -3,7 +3,7 @@
  A useful select picker, help you finish you app fast.
 
 ### Demo
-<video loop autoplay src='./demo.mp4' />
+![demo](./demo.gif)
 
 ### Install
 
@@ -111,6 +111,7 @@ Just a select picker.
 |fontColor    |String         | '#444’                     | Font color |
 |borderStyle  |Object         | {}                         | Border style |
 |maskercolor  |String         | 'rgba(255, 255, 255, 0.5)' | The mask color of SelectPicker|
+|data         |Array          | [1,2,3,4,5,6,7]            | the picker list items |
 |onValueChange|Function       | function (item, index)     | When select picker value  change, this function will be call|
 
 #### DatePicker Config

@@ -331,7 +331,7 @@ SelectPicker.defaultProps = {
   wrapStyle:{},
   borderStyle: {},
   maskercolor: 'rgba(255, 255, 255, 0.5)',
-  onValueChange: function (item, index) {}
+  onValueChange: function (item, index) {},
 }
 
 export default SelectPicker;
