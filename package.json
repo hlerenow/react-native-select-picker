@@ -1,0 +1,31 @@
+{
+  "name": "react-native-select-picker",
+  "version": "0.0.1",
+  "description": "A useful select picker, help you finish you app fast.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlerenow/react-native-select-picker.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "datetime",
+    "picker",
+    "select",
+    "scroll"
+  ],   
+  "author": "hlere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlerenow/react-native-select-picker/issues"
+  },
+  "homepage": "https://github.com/hlerenow/react-native-select-picker#readme"
+}
