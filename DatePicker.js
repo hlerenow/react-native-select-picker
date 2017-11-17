@@ -263,10 +263,6 @@ class DatePicker extends React.Component {
 
 DatePicker.defaultProps = {
   defaultTime: new Date(),
-  onValChange: function (year, month, day, hour, minute) {
-    console.log('改变');
-    // console.log(year, month, day, hour, minute)
-  },
   cancel: function () {},
   ok: function () {},
   title: '选择时间',
