@@ -1,3 +1,7 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![Version](https://img.shields.io/npm/v/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-percent-circle)
+[![npm](https://img.shields.io/npm/dt/react-native-select-picker.svg)](https://www.npmjs.com/package/react-native-percent-circle)
+
 # react-native-select-picker
 
  A useful select picker, help you finish you app fast.
